@@ -205,3 +205,7 @@ Em um cenário real de produção, algumas melhorias poderiam ser realizadas:
 ## Observação
 
 Este projeto foi desenvolvido como uma simulação de uma demanda real de negócio. O modelo deve ser interpretado como uma ferramenta de apoio à decisão, e não como única regra automática para bloqueio de transações. Em um ambiente real, seria necessário validar os impactos financeiros, operacionais e regulatórios antes da implantação.
+
+## Link da base
+
+https://1drv.ms/x/c/a47cce5ea86f385e/IQAkw-SIAI78QrHR8UNFEfQEAcdURvaqhLV1wY_9LsBz9E4?e=vGYbkD
